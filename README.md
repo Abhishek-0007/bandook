@@ -7,3 +7,4 @@
 
 #Attachments. After all this, this app will provide the best attachments for every gun in order to control their recoil and reloading time.
 To build, open app with android studio and create apk
+![483lnf](https://user-images.githubusercontent.com/54153978/87284054-96023900-c513-11ea-9c55-02be50a34bad.gif)
